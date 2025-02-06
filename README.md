@@ -1,6 +1,9 @@
 # Portfolio
 
-A selection of Mechatronics/Robotics Projects at Stanford University (2022-2024)
+A selection of Mechatronics/Robotics Projects at 
+ETH Zurich, Switzerland (2022)
+Stanford University, USA (2022-2024)
+Accurex Biomedical, India (2023)
 
 ## Projects in the Field of Mechatronics
 
