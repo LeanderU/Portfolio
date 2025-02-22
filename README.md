@@ -7,6 +7,17 @@ A selection of Mechatronics/Robotics Projects at
 
 ## Projects in the Field of Mechatronics
 
+### [Firefly](https://src.stanford.edu/demo/firefly)
+**A mono-copter scout drone (Stanford Robotics Center)**  
+*08/2024 – 11/2024*
+
+Originally developed to aid firefighters with near real-time information gathering, Firefly has been adapted to showcase indoor thrust vectoring capabilities. Its versatile design allows for potential applications beyond firefighting, demonstrating the possibilities of drone technology in confined spaces and harsh environments.
+
+**Skills & Technologies used:**  
+Sensor and actuator integration (I2C, SPI, etc.), visual odometry, motion capture, wireless transmission, CAD (Solidworks), laser cutting, additive manufacturing
+
+---
+
 ### [Knock Box](https://github.com/LeanderU/KnockBox.git)
 **Course Project in EE256: PCB Design (Stanford University)**  
 *12/2023 – ongoing*
